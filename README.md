@@ -31,7 +31,7 @@
 >>  <summary>This repository is intended to grow as I learn, use, and become more proficient with code, recognizing what I use more than once.</summary>
 >>
 >>> <details>
->>>  <summary><h2>Version 1, 05.08.2021</h2></summary>
+>>>  <h2>Version 1, 05.08.2021</h2>
 >>>
 >>>> | Markdown Snippits | React Snippits |
 >>>> |--|--|
