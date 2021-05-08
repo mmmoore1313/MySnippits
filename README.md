@@ -1,11 +1,11 @@
 # MySnippits
-> <details>
->  <summary>Contents</summary>
-> 
->> | [About](https://github.com/mmmoore1313/MySnippits#about) | [Technologies Used](https://github.com/mmmoore1313/MySnippits#technologies-employed) |
->> |--|--|
->> | [Future Iterations](https://github.com/mmmoore1313/MySnippits#future-iterations) | [Links](https://github.com/mmmoore1313/MySnippits#links) |
-> </detils>
+>> <details>
+>>  <summary>Contents</summary>
+>> 
+>>> | [About](https://github.com/mmmoore1313/MySnippits#about) | [Technologies Used](https://github.com/mmmoore1313/MySnippits#technologies-employed) |
+>>> |--|--|
+>>> | [Future Iterations](https://github.com/mmmoore1313/MySnippits#future-iterations) | [Links](https://github.com/mmmoore1313/MySnippits#links) |
+>> </detils>
 >
 > ## About
 > <!-- Desctiption -->
