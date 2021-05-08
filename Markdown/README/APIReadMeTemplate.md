@@ -1,12 +1,11 @@
-<!-- API README Template -->
 # APP TITLE
 > <details>
 >  <summary>Contents</summary>
 >
 >> | [About]() | [Technologies Used]() |
 >> |--|--|
->> | [ERD/Wireframe]() | [Future Iterations]() |
->> | [Snappshot]() | [Links]() |
+>> | [Routes]() | [Future Iterations]() |
+>> | [ERD]() | [Links]() |
 >> | [Planning]() |  |
 >>
 > </details>
@@ -81,15 +80,7 @@
 >> <details>
 >>   <summary>Show</summary>
 >>
->>> ![ERD/Wireframe](linkToErd/wireframe)
->> ###### [(Return to top)]()
->> </details>
->>
-> ## snapshot of app
->> <details>
->>   <summary>Show</summary>
->>
->>> ![snapshot](linkToSnapshot)
+>>> ![ERD](linkToErd)
 >> ###### [(Return to top)]()
 >> </details>
 >>
