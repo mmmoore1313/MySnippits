@@ -1,55 +1,82 @@
 <!-- API README Template -->
 # APP TITLE
-> | Contents |  |
-> |--|--|
-> | [About]() | [Technologies Used]() |
-> | [ERD/Wireframe]() | [Future Iterations]() |
-> | [Snappshot]() | [Links]() |
-> | [Planning]() |  |
+> <details>
+>  <summary>Contents</summary>
+>
+>> | [About]() | [Technologies Used]() |
+>> |--|--|
+>> | [ERD/Wireframe]() | [Future Iterations]() |
+>> | [Snappshot]() | [Links]() |
+>> | [Planning]() |  |
+>>
+> </details>
 >
 >
 > ## About App
-> <!-- Desctiption -->
+>> <!-- Desctiption -->
+>>
 > ## Catalogue of Routes
->> ### Auth Routes 
->>> | HTTP Method | URL Path | Action | CRUD |
->>> |--|--|--|--|
->>> | POST |  | create | (C)reate |
->>> | GET |  | index or list | (R)ead |
->>> | GET |  | show or retrieve | (R)ead |
->>> | PATCH |  | update | (U)pdate |
->>> | DELETE |  | destroy | (D)elete |
+>> <details>
+>>  <summary>Auth</summary>
+>>
+>>> <details>
+>>>  <summary>Auth Routes</summary>
+>>> 
+>>>>| HTTP Method | URL Path | Action | CRUD |
+>>>> |--|--|--|--|
+>>>> | POST | /sign-up/ | create | (C)reate |
+>>>> | GET | /sign-in/ | show or retrieve | (R)ead |
+>>>> | PATCH | /change-password/ | update | (U)pdate |
+>>>> | DELETE | /sign-out/ | destroy | (D)elete |
+>>>>
+>>> </details>
 >>>
->>> #### Curl-Scripts
->>> | Action | JSON | Command | Success | Failure | 
->>> |--|--|--|--|--|
->>> |  |  |  | `201 Created` | `401 Not Found` |
->>> |  |  |  | `201 Created` | `401 Not Found` |
->>> |  |  |  | `201 Created` | `401 Not Found` |
->>> |  |  |  | `201 Created` | `401 Not Found` |
->>
->>
+>>> <details>
+>>>  <summary>Auth Curl-Scripts</summary>
+>>>
+>>>> | Action | JSON | Command | Success | Failure | 
+>>>> |--|--|--|--|--|
+>>>> |  |  |  | `201 Created` | `401 Not Found` |
+>>>> |  |  |  | `201 Created` | `401 Not Found` |
+>>>> |  |  |  | `201 Created` | `401 Not Found` |
+>>>> |  |  |  | `201 Created` | `401 Not Found` |
+>>>>
+>>> </details>
+>>>
 >> ###### [(Return to top)]()
+>> </details>
 >>
->> ### Other Routes 
->>> | HTTP Method | URL Path | Action | CRUD |
->>> |--|--|--|--|
->>> | POST |  | create | (C)reate |
->>> | GET |  | index or list | (R)ead |
->>> | GET |  | show or retrieve | (R)ead |
->>> | PATCH |  | update | (U)pdate |
->>> | DELETE |  | destroy | (D)elete |
+>> <details>
+>>  <summary>Other Routes</summary>
+>>
+>>> <details>
+>>>  <summary>Routes</summary>
 >>>
->>> #### Curl-Scripts
->>> | Action | JSON | Command | Success | Failure | 
->>> |--|--|--|--|--|
->>> |  |  |  | `201 Created` | `401 Not Found` |
->>> |  |  |  | `201 Created` | `401 Not Found` |
->>> |  |  |  | `201 Created` | `401 Not Found` |
->>> |  |  |  | `201 Created` | `401 Not Found` |
->
-> ###### [(Return to top)]()
->
+>>>> | HTTP Method | URL Path | Action | CRUD |
+>>>> |--|--|--|--|
+>>>> | POST |  | create | (C)reate |
+>>>> | GET |  | index or list | (R)ead |
+>>>> | GET |  | show or retrieve | (R)ead |
+>>>> | PATCH |  | update | (U)pdate |
+>>>> | DELETE |  | destroy | (D)elete |
+>>>>
+>>> </details>
+>>>
+>>> <details>
+>>>   <summary>Curl-Scripts</summary>
+>>>
+>>>> | Action | JSON | Command | Success | Failure | 
+>>>> |--|--|--|--|--|
+>>>> |  |  |  | `201 Created` | `401 Not Found` |
+>>>> |  |  |  | `201 Created` | `401 Not Found` |
+>>>> |  |  |  | `201 Created` | `401 Not Found` |
+>>>> |  |  |  | `201 Created` | `401 Not Found` |
+>>>>
+>>> </details>
+>>>
+>> ###### [(Return to top)]()
+>> </details>
+>>
 > ## Entity Relationship Diagram or Wireframe
 > ![ERD/Wireframe](linkToErd/wireframe)
 >
