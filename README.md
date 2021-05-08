@@ -6,6 +6,7 @@
 >>> |--|--|
 >>> | [Future Iterations](https://github.com/mmmoore1313/MySnippits#future-iterations) | [Links](https://github.com/mmmoore1313/MySnippits#links) |
 >> </detils>
+>>
 >
 > ## About
 > <!-- Desctiption -->
