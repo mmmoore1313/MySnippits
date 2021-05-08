@@ -1,12 +1,12 @@
 # MySnippits
 > <details>
->  <summary>Contents</summary>
+>   <summary>Contents</summary>
 > 
 >> | [About](https://github.com/mmmoore1313/MySnippits#about) | [Technologies Used](https://github.com/mmmoore1313/MySnippits#technologies-employed) |
 >> |--|--|
 >> | [Future Iterations](https://github.com/mmmoore1313/MySnippits#future-iterations) | [Links](https://github.com/mmmoore1313/MySnippits#links) |
 >> 
-> </detils>
+> </details>
 >
 >
 > ## About
@@ -15,18 +15,34 @@
 >> ###### [(Return to top)](https://github.com/mmmoore1313/MySnippits#mysnippits)
 >
 > ## Technologies Employed
->> | **General Development** | **[Client]() Development** | **[API]() Development** | **Deployment** |
->> |--|--|--|--|
->> | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) |
->
->
-> ###### [(Return to top)](https://github.com/mmmoore1313/MySnippits#mysnippits)
+>> <details>
+>>  <summary> A List of the Tech Used </summary>
+>> 
+>>>| **General Development** | **[Client]() Development** | **[API]() Development** | **Deployment** |
+>>> |--|--|--|--|
+>>> | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) | [Technology Name](docs) |
+>>
+>> ###### [(Return to top)](https://github.com/mmmoore1313/MySnippits#mysnippits)
+>> </details>
+>>
 >
 > ## Future Iterations
-> <!-- Desctiption -->
->
->
-> ###### [(Return to top)](https://github.com/mmmoore1313/MySnippits#mysnippits)
+>> <details>
+>>  <summary>This repository is intended to grow as I learn, use, and become more proficient with code, recognizing what I use more than once.</summary>
+>>
+>>> <details>
+>>>  <summary>Version 1, 05.08.2021</summary>
+>>>
+>>>> | Markdown Snippits | React Snippits |
+>>>> |--|--|
+>>>> | Markdown Templates | React Templates |
+>>>> | Tutorial Template  |  |
+>>> 
+>>> </details>
+>>>
+>> ###### [(Return to top)](https://github.com/mmmoore1313/MySnippits#mysnippits)
+>> </details>
+>>
 >
 > ## Links
 >> | | **Deployed Sites** | **Repositories** |
