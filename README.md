@@ -45,8 +45,8 @@
 >>
 >
 > ## Links
->> <description>
->>  <summary>Relevant Sites and Repositories</summary>
+>> <details>
+>>   <summary>Relevant Sites and Repositories</summary>
 >>
 >>> | | **Deployed Sites** | **Repositories** |
 >>> |--|--|--|
@@ -54,6 +54,6 @@
 >>> | Database App | [dbUrl](dbUrl) | [dbRepositoryUrl](dbRepositoryUrl) |
 >>>
 >> ###### [(Return to top)](https://github.com/mmmoore1313/MySnippits#mysnippits)
->> </description>
+>> </details>
 >>
 >
