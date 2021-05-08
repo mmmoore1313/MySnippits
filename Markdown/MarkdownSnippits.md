@@ -37,3 +37,15 @@
 >> ###### [Return to Top]()
 >> </details>
 >>
+> ## Multiple Author Commit
+>> <details>
+>>   <summary>For When there are multiple authors contributing to an update</summary>
+>> 
+>>> ``` 
+>>> My commit title
+>>> My commit text
+>>> Co-authored-by: [<TeamMateName>](https://github.com/<TeamMateGH>)
+>>> Co-authored-by: [<TeamMateName>](https://github.com/<TeamMateGH>)
+>>> Co-authored-by: [<TeamMateName>](https://github.com/<TeamMateGH>)
+>>> Co-authored-by: [<TeamMateName>](https://github.com/<TeamMateGH>)
+>>> ``` 
