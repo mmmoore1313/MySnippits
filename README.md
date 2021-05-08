@@ -45,10 +45,15 @@
 >>
 >
 > ## Links
->> | | **Deployed Sites** | **Repositories** |
->> |--|--|--|
->> | Front End App: | [appUrl](appUrl) | [appRepositoryUrl](appRepositoryUrl)|
->> | Database App | [dbUrl](dbUrl) | [dbRepositoryUrl](dbRepositoryUrl) |
->
-> ###### [(Return to top)](https://github.com/mmmoore1313/MySnippits#mysnippits)
+>> <description>
+>>  <summary>Relevant Sites and Repositories</summary>
+>>
+>>> | | **Deployed Sites** | **Repositories** |
+>>> |--|--|--|
+>>> | Front End App: | [appUrl](appUrl) | [appRepositoryUrl](appRepositoryUrl)|
+>>> | Database App | [dbUrl](dbUrl) | [dbRepositoryUrl](dbRepositoryUrl) |
+>>>
+>> ###### [(Return to top)](https://github.com/mmmoore1313/MySnippits#mysnippits)
+>> </description>
+>>
 >
