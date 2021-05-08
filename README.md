@@ -1,6 +1,6 @@
 # MySnippits
 > <details>
->  ## <summary>Contents</summary>
+>  <summary>Contents</summary>
 > 
 >> | [About](https://github.com/mmmoore1313/MySnippits#about) | [Technologies Used](https://github.com/mmmoore1313/MySnippits#technologies-employed) |
 >> |--|--|
@@ -9,12 +9,10 @@
 > </detils>
 >
 >
-> <details>
->  ## <summary>About</summary>
->
+> ## About
 >> This is the repository containing templates and snippits of code that I use often. It will be updated as often as I learn new pieces of code.
+>> 
 >> ###### [(Return to top)](https://github.com/mmmoore1313/MySnippits#mysnippits)
-> </details>
 >
 > ## Technologies Employed
 >> | **General Development** | **[Client]() Development** | **[API]() Development** | **Deployment** |
